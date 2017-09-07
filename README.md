@@ -15,3 +15,6 @@ A simple, no nonsense guide to using git http://rogerdudler.github.io/git-guide/
 
 A git guide by the git for windows providers at https://git-scm.com/
 - https://book.git-scm.com/
+
+- Git Beginner's Guide for Dummies.
+https://backlogtool.com/git-tutorial/en/
