@@ -2,6 +2,8 @@
 This repository serves as a reference for using git.
 Links to guides for using git are provided and files with common git commands.
 
+Quick git commands help source http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+
 For a good place to start, checkout the official guides and tutorials by GitHub https://guides.github.com/
 
 # List of guides and manuals shared by others:
